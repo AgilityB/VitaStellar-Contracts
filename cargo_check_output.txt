@@ -1,0 +1,10 @@
+warning: profiles for the non root package will be ignored, specify profiles at the workspace root:
+package:   c:\Users\LENOVO\grantfox\VitaStellar-Contracts\contracts\code_ownership\Cargo.toml
+workspace: c:\Users\LENOVO\grantfox\VitaStellar-Contracts\Cargo.toml
+warning: profiles for the non root package will be ignored, specify profiles at the workspace root:
+package:   c:\Users\LENOVO\grantfox\VitaStellar-Contracts\contracts\deprecation_framework\Cargo.toml
+workspace: c:\Users\LENOVO\grantfox\VitaStellar-Contracts\Cargo.toml
+warning: profiles for the non root package will be ignored, specify profiles at the workspace root:
+package:   c:\Users\LENOVO\grantfox\VitaStellar-Contracts\contracts\runtime_validation\Cargo.toml
+workspace: c:\Users\LENOVO\grantfox\VitaStellar-Contracts\Cargo.toml
+    Blocking waiting for file lock on build directory
